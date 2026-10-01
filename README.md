@@ -16,7 +16,7 @@ Este repositorio contiene los entregables del **Avance 2 (ATI2)** correspondient
 - **Documentación y entregables académicos:**
   - [Informe IEEE - Avance 2](Entregable_1_Informe_IEEE_Avance2.docx): Documento Word completo en formato IEEE (Introducción + Metodología PICOC + PRISMA + QA + Referencias).
   - [Matriz de extracción y cribado](Cribado_RSL_ML_CRM_Actualizado.xlsx): Matriz de cribado, criterios CI/CE, evaluación de calidad QA y formulario de extracción.
-  - [Diagrama de flujo PRISMA 2020](Diagrama_Flujo_PRISMA_2020.png): Diagrama visual de reducción del corpus.
+  - [Diagrama de flujo PRISMA 2020](Diagrama_Flujo_PRISMA_2020.jpeg): Diagrama visual de reducción del corpus.
 - **Evidencia y datos brutos:**
   - [Búsqueda bruta de Scopus](scopus_raw_search.csv): Registros de la búsqueda ejecutada en Scopus (2,262 resultados).
   - [Corpus incluido](corpus_incluido.csv): Matriz consolidada del corpus final (4 artículos).
